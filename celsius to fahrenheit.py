@@ -1,6 +1,6 @@
 #Author: Kaitlyn Ormond
 #Date Written: 6/9/24
-#Assignment: Module 01 Programming Assignment
+#Assignment: Module 01 Programming Assignment 1-1
 #This program converts celsius to fahrenheit.
 
 def celsius_to_fahrenheit(celsius):
